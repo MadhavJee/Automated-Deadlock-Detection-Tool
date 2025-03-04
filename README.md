@@ -1,2 +1,2 @@
 # Automated-Deadlock-Detection-Tool
-Working Model
+Working Model of Operating System
